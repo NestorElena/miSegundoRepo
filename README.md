@@ -9,3 +9,5 @@ Un commit más desde Github
 Una acutalizacion más 
 
 Practicando desde el local para haces un push a Github
+
+Practica con el pull para git 

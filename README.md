@@ -2,4 +2,4 @@
 
 MI Segundo repositorio!!!!!  
 
-Mi primera contribución local pra GitHub.
+Mi primera contribución local para GitHub.

@@ -23,16 +23,3 @@ cambios desde dev editor
 Practica desde Github con fetch para git
 
 Segundo intento desde mi branch pureva1
-
-
-gitGraph
-    commit
-    commit
-    branch develop
-    checkout develop
-    commit
-    commit
-    checkout main
-    merge develop
-    commit
-    commit

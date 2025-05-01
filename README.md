@@ -23,3 +23,5 @@ cambios desde dev editor
 Practica desde Github con fetch para git
 
 Segundo intento desde mi branch pureva1
+
+Presiona <kbd>W</kbd> para ir hacia ariiba, presiona <kbd>S</kbd> para abajo y <kbd>A</kbd> para la izquierda o <kbd>D</kbd> para la derecha 
